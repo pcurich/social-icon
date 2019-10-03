@@ -2,7 +2,7 @@
   "name": "social-icon",
   "version": "1.0.0",
   "description": "Web Component to create social icon, based on LitElement",
-  "main": "social-icon.js",
+  "main": "pc-social-icon.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,13 +15,15 @@
     "litelement",
     "javascript"
   ],
-  "author": "pcurich",
+  "author": "@pcurich",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pcurich/social-icon/issues"
   },
   "homepage": "https://github.com/pcurich/social-icon#readme",
   "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.3.0",
+    "dile-input": "^2.4.2",
     "lit-element": "^2.2.1"
   }
 }
