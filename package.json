@@ -1,0 +1,27 @@
+{
+  "name": "social-icon",
+  "version": "1.0.0",
+  "description": "Web Component to create social icon, based on LitElement",
+  "main": "social-icon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcurich/social-icon.git"
+  },
+  "keywords": [
+    "webcomponet",
+    "litelement",
+    "javascript"
+  ],
+  "author": "pcurich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcurich/social-icon/issues"
+  },
+  "homepage": "https://github.com/pcurich/social-icon#readme",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  }
+}
