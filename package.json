@@ -22,8 +22,10 @@
   },
   "homepage": "https://github.com/pcurich/social-icon#readme",
   "dependencies": {
-    "@webcomponents/webcomponentsjs": "^2.3.0",
     "dile-input": "^2.4.2",
     "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.3.0"
   }
 }
